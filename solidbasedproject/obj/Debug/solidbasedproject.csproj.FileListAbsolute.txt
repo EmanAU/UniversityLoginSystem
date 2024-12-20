@@ -1,0 +1,25 @@
+C:\Users\Eman Ali\source\repos\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.csproj.AssemblyReference.cache
+C:\Users\Eman Ali\source\repos\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.csproj.CoreCompileInputs.cache
+C:\Users\Eman Ali\source\repos\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.exe.config
+C:\Users\Eman Ali\source\repos\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.exe
+C:\Users\Eman Ali\source\repos\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.pdb
+C:\Users\Eman Ali\source\repos\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.exe
+C:\Users\Eman Ali\source\repos\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.pdb
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\bin\Debug\Text Files\data.txt
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\bin\Debug\Text Files\Username.txt
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.exe.config
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.exe
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.pdb
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.csproj.AssemblyReference.cache
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.csproj.CoreCompileInputs.cache
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.exe
+C:\Users\Eman Ali\Desktop\C# Project\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.pdb
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\bin\Debug\Text Files\data.txt
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\bin\Debug\Text Files\Username.txt
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.exe.config
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.exe
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\bin\Debug\solidbasedproject.pdb
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.csproj.AssemblyReference.cache
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.csproj.CoreCompileInputs.cache
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.exe
+M:\C# Project\New Organized\solidbasedproject\solidbasedproject\obj\Debug\solidbasedproject.pdb

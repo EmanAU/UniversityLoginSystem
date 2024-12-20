@@ -1,0 +1,102 @@
+Registration Id,Name,Department,Semester,Father Name,Fee Status
+241000,Eman Ali,BSIT,1st,Imran Mehdi,Paid
+ , , , , , 
+241002,Saad Hassan,BSIT,7th,Mehdi,Paid
+241003,Fatima Ahmed,BSCS,1st,Ahmed,Unpaid
+241004,Hassan Ali,BSIT,4th,Imran Mehdi,Paid
+241005,Ali Khan,BECE,4th,Yousaf,Paid
+241006,Usman Sheikh,BSIT,5th,Nawaz,Paid
+241007,Usman Sheikh,BSIT,1st,Mehdi,Paid
+241008,Ali Khan,BECE,1st,Mehdi,Paid
+241009,Mazhar Ali,BECE,5th,Hassan,Unpaid
+241010,Eman Ali,BECE,3rd,Mehdi,Paid
+241011,Fatima Ahmed,BSIT,3rd,Ahmed,Unpaid
+241012,Hassan Ali,BECE,2nd,Mehdi,Paid
+241013,Hassan Khan,BSCS,4th,Ali,Unpaid
+241014,Mazhar Ali,BSIT,3rd,Hassan,Unpaid
+241015,Hassan Khan,BSCS,3rd,Khalid,Paid
+241016,Saad Hassan,BSCS,6th,Imran Mehdi,Paid
+241017,Ali Khan,BECE,5th,Mehdi,Paid
+241018,Ahmed Iqbal,BECE,1st,Ahmed,Unpaid
+241019,Ali Khan,BSCS,2nd,Ali,Unpaid
+241020,Ali Khan,BECE,7th,Ahmed,Paid
+241021,Hassan Khan,BSCS,6th,Imran Mehdi,Unpaid
+241022,Hassan Khan,BECE,7th,Imran Mehdi,Unpaid
+241023,Eman Ali,BECE,2nd,Ahmed,Paid
+241024,Zara Sheikh,BSCS,7th,Yousaf,Paid
+241025,Saad Hassan,BSIT,6th,Yousaf,Unpaid
+241026,Fatima Ahmed,BSIT,4th,Ahmed,Paid
+241027,Ayesha Ali,BBA,8th,Imran Mehdi,Paid
+241028,Ayesha Ali,BECE,6th,Yousaf,Paid
+241029,Hassan Ali,BECE,5th,Mehdi,Paid
+241030,Ali Khan,BSCS,7th,Ali,Unpaid
+241031,Usman Sheikh,BECE,8th,Yousaf,Paid
+241032,Fatima Ahmed,BSIT,6th,Khalid,Unpaid
+241033,Usman Sheikh,BSIT,7th,Ahmed,Paid
+241034,Ali Khan,BSCS,3rd,Ahmed,Unpaid
+241035,Eman Ali,BSCS,4th,Mehdi,Paid
+241036,Hassan Ali,BECE,5th,Imran Mehdi,Unpaid
+241037,Usman Sheikh,BSIT,1st,Ahmed,Unpaid
+241038,Fatima Ahmed,BSIT,2nd,Mehdi,Unpaid
+241039,Ahmed Iqbal,BSIT,4th,Khalid,Paid
+241040,Ayesha Ali,BSCS,5th,Mehdi,Unpaid
+241041,Zara Sheikh,BBA,8th,Hassan,Unpaid
+241042,Zara Sheikh,BECE,3rd,Mehdi,Paid
+241043,Ayesha Ali,BECE,6th,Yousaf,Unpaid
+241044,Zara Sheikh,BSIT,4th,Ali,Unpaid
+241045,Usman Sheikh,BBA,1st,Nawaz,Unpaid
+241046,Saad Hassan,BBA,6th,Yousaf,Paid
+241047,Hassan Ali,BECE,2nd,Imran Mehdi,Paid
+241048,Ali Khan,BSCS,1st,Nawaz,Paid
+241049,Ahmed Iqbal,BBA,8th,Khalid,Unpaid
+241050,Zara Sheikh,BSCS,2nd,Nawaz,Unpaid
+241051,Hassan Ali,BBA,2nd,Ahmed,Paid
+241052,Usman Sheikh,BSCS,4th,Yousaf,Unpaid
+241053,Mazhar Ali,BBA,4th,Hassan,Paid
+241054,Eman Ali,BSIT,7th,Hassan,Paid
+241055,Ali Khan,BECE,1st,Ali,Paid
+241056,Hassan Ali,BECE,3rd,Imran Mehdi,Unpaid
+241057,Mazhar Ali,BSIT,2nd,Mehdi,Paid
+241058,Hassan Ali,BBA,5th,Yousaf,Paid
+241059,Usman Sheikh,BSCS,2nd,Yousaf,Unpaid
+241060,Hassan Khan,BBA,2nd,Yousaf,Paid
+241061,Ayesha Ali,BSIT,6th,Mehdi,Paid
+241062,Saad Hassan,BECE,8th,Imran Mehdi,Paid
+241063,Ayesha Ali,BSCS,4th,Mehdi,Unpaid
+241064,Ali Khan,BSCS,5th,Khalid,Unpaid
+241065,Fatima Ahmed,BBA,8th,Ahmed,Unpaid
+241066,Fatima Ahmed,BSIT,4th,Yousaf,Paid
+241067,Hassan Khan,BSCS,6th,Khalid,Unpaid
+241068,Fatima Ahmed,BSCS,1st,Ahmed,Unpaid
+241069,Ahmed Iqbal,BSIT,5th,Yousaf,Paid
+241070,Ali Khan,BBA,3rd,Ali,Paid
+241071,Fatima Ahmed,BSIT,8th,Imran Mehdi,Paid
+241072,Usman Sheikh,BSCS,6th,Hassan,Unpaid
+241073,Ahmed Iqbal,BBA,4th,Mehdi,Unpaid
+241074,Hassan Khan,BECE,4th,Ahmed,Paid
+241075,Ali Khan,BECE,1st,Imran Mehdi,Unpaid
+241076,Ayesha Ali,BSCS,3rd,Imran Mehdi,Paid
+241077,Fatima Ahmed,BECE,7th,Yousaf,Paid
+241078,Ali Khan,BSCS,5th,Ahmed,Unpaid
+241079,Hassan Khan,BSCS,6th,Khalid,Paid
+241080,Hassan Ali,BSIT,1st,Nawaz,Paid
+241081,Mazhar Ali,BBA,5th,Hassan,Paid
+241082,Saad Hassan,BECE,1st,Hassan,Unpaid
+241083,Mazhar Ali,BBA,4th,Nawaz,Unpaid
+241084,Mazhar Ali,BECE,2nd,Yousaf,Paid
+241085,Zara Sheikh,BSCS,3rd,Ali,Paid
+241086,Usman Sheikh,BBA,2nd,Khalid,Unpaid
+241087,Saad Hassan,BBA,7th,Ali,Paid
+241088,Saad Hassan,BSCS,4th,Yousaf,Unpaid
+241089,Ali Khan,BECE,8th,Hassan,Unpaid
+241090,Ahmed Iqbal,BECE,6th,Mehdi,Unpaid
+241091,Mazhar Ali,BSIT,8th,Mehdi,Unpaid
+241092,Ali Khan,BECE,3rd,Yousaf,Paid
+241093,Ali Khan,BECE,1st,Imran Mehdi,Unpaid
+241094,Ahmed Iqbal,BECE,1st,Yousaf,Paid
+241095,Ahmed Iqbal,BSCS,6th,Hassan,Paid
+241096,Usman Sheikh,BECE,2nd,Yousaf,Paid
+241097,Usman Sheikh,BBA,6th,Imran Mehdi,Paid
+241098,Mazhar Ali,BSIT,8th,Nawaz,Unpaid
+241099,Ayesha Ali,BSCS,6th,Ahmed,Paid
+242424,Eman Ali,BSIT,1st,Imran,Paid
